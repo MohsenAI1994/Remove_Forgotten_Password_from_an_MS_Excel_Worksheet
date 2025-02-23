@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<worksheet 
+xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" 
+xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" 
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+mc:Ignorable="x14ac" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac">
+<sheetPr codeName="Sheet1"/>
+<dimension ref="A1"/>
+<sheetViews>
+<sheetView tabSelected="1" workbookViewId="0">
+<selection activeCell="B2" sqref="B2"/>
+</sheetView></sheetViews>
+<sheetFormatPr defaultRowHeight="15" x14ac:dyDescent="0.25"/>
+<sheetData/>
+<sheetProtection 
+algorithmName="SHA-512" 
+hashValue="+WCAoBR0y938H8NJzvTsg1fCPgJk/Cr3S9q/xt26/wYv8OwSbfEwt1613Vu5Ter7RAP0FAwsJh+t0aAgqdKxqg==" 
+saltValue="tWhGG6BMTzHhG2xJbssv8Q==" spinCount="100000" sheet="1" objects="1" scenarios="1" selectLockedCells="1" selectUnlockedCells="1"/>
+<pageMargins left="0.7" right="0.7" top="0.75" bottom="0.75" header="0.3" footer="0.3"/>
+</worksheet>
